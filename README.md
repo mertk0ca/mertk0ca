@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">A passionate computer engineering student from Türkiye</h3>
 
+- 🔭 I’m currently working on **Unity games**
+
 - 🌱 I’m currently learning **frontend development**
 
 - 📫 How to reach me **mertk0ca@hotmail.com**
