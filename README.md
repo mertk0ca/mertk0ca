@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **frontend development**
 
-- 📫 How to reach me **mertk0ca@hotmail.com**
+- 📫 How to reach me **mertkoca.business@hotmail.com**
 
 <p align="left">
 </p>
