@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mertkoca.business@hotmail.com**
 
-- Play my games on itch.io **https://mertkoca.itch.io/**
+- 🎮 Play my games on itch.io **https://mertkoca.itch.io/**
 
 <p align="left">
 </p>
