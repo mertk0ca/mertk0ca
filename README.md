@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Unity games**
 
-- 🌱 I’m currently learning **frontend development**
-
 - 📫 How to reach me **mertkoca.business@hotmail.com**
 
 - 🎮 Play my games on itch.io **https://mertkoca.itch.io/**
