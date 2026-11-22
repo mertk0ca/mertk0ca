@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">A passionate computer engineering student from Türkiye</h3>
+<h3 align="center">A passionate computer engineer from Türkiye</h3>
 
 - 🔭 I’m currently working on **Unity games**
 
